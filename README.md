@@ -81,8 +81,16 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
     ![Langkah 24](https://user-images.githubusercontent.com/59683573/116429657-46a5b300-a870-11eb-868f-f84b8de9ff6c.png)
 
 25. Membuat Form Button seperti merubah warna latar dan warna huruf
+    ![Langkah 25](https://user-images.githubusercontent.com/59683573/116507023-b0fa3a00-a8e8-11eb-88e2-a6ab4e1a54ea.png)
 
+26. Program berhasil dijalankan dan melakukan latar warna hijau dan warna huruf biru
+    ![Langkah 26](https://user-images.githubusercontent.com/59683573/116507052-bc4d6580-a8e8-11eb-9b03-a7a45a23c083.png)
 
+27. Melakukan perubahan warna menggunakan button yang tersedia
+    ![Langkah 27](https://user-images.githubusercontent.com/59683573/116507087-cb341800-a8e8-11eb-850e-b7de0ea4921d.png)
 
+28. Selanjutnya, melakukan pilihan checkBox dengan perhitungan otomatis
+    ![Langkah 28](https://user-images.githubusercontent.com/59683573/116507126-dab36100-a8e8-11eb-85aa-a8b51106aad0.png)
 
-
+29. Program berhasil dijalankan menampilkan menu makan dan melakukan perhitungan otomatis
+    ![Langkah 29](https://user-images.githubusercontent.com/59683573/116507194-fc144d00-a8e8-11eb-8eb2-93f9ca73ea69.png)
