@@ -90,7 +90,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
     ![Langkah 27](https://user-images.githubusercontent.com/59683573/116507087-cb341800-a8e8-11eb-850e-b7de0ea4921d.png)
 
 28. Selanjutnya, melakukan pilihan checkBox dengan perhitungan otomatis
-    ![Langkah 28](https://user-images.githubusercontent.com/59683573/116507126-dab36100-a8e8-11eb-85aa-a8b51106aad0.png)
+    ![Langkah 28](https://user-images.githubusercontent.com/59683573/116507426-7218b400-a8e9-11eb-9313-e8449c4a8d6a.png)
 
 29. Program berhasil dijalankan menampilkan menu makan dan melakukan perhitungan otomatis
-    ![Langkah 29](https://user-images.githubusercontent.com/59683573/116507194-fc144d00-a8e8-11eb-8eb2-93f9ca73ea69.png)
+    ![Langkah 29](https://user-images.githubusercontent.com/59683573/116507440-7a70ef00-a8e9-11eb-9631-eda94df30231.png)
